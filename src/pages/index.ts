@@ -1,0 +1,10 @@
+export { default as LoginPage } from "./login.page";
+export { default as ErrorPage } from "./error.page";
+export { default as SignupPage } from "./signup.page";
+export { default as HomePage } from "./home.page";
+export { default as SchedulePage } from "./schedule.page";
+export { default as CustomerDetailsPage } from "./customerDetails.page";
+export { default as CustomerDetailsIDPage } from "./customerDetailsID.page";
+export { default as BranchPage } from "./branch.page";
+export { default as BranchIDPage } from "./branchID.page";
+export { default as BranchErrorPage } from "./branchError.page";
